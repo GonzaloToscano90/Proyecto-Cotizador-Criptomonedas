@@ -1,5 +1,8 @@
 body {
-    background-color: #0d2235;
+    /* background-color: #0d2235; */
+    background-image: url(/img/mundovector.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img {
     max-width: 100%;
